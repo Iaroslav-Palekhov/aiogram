@@ -6,6 +6,7 @@ from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 import json
 import os
 
+# Тестовая конфигурация тестирования веток
 logging.basicConfig(level=logging.INFO)
 TOKEN = "8027892189:AAH2_7dXqJWNLC4i7ZlySE0vsexuYWmygYU"
 
